@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Rick Hore",
+    "info": "Software Developer",
+    "facebook": "http://www.facebook.com",
+    "twitter": "http://www.twitter.com",
+    "linkedin": "http://www.linkedin.com",
+    "instagram": "http://www.instagram.com"
+  },
+  {
+    "name": "Urooj Ahmad",
+    "info": "Full Stack Developer",
+    "facebook": "http://www.facebook.com",
+    "twitter": "http://www.twitter.com",
+    "linkedin": "http://www.linkedin.com",
+    "instagram": "http://www.instagram.com"
+  },
+  {
+    "name": "Dishari Saha",
+    "info": "Research Scientist",
+    "facebook": "http://www.facebook.com",
+    "twitter": "http://www.twitter.com",
+    "linkedin": "http://www.linkedin.com",
+    "instagram": "http://www.instagram.com"
+  },
+  {
+    "name": "Sneha Sharma",
+    "info": "AI Researchers",
+    "facebook": "http://www.facebook.com",
+    "twitter": "http://www.twitter.com",
+    "linkedin": "http://www.linkedin.com",
+    "instagram": "http://www.instagram.com"
+  }
+]
